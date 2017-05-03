@@ -2,7 +2,7 @@
   "name": "my_sample",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://vksci123.github.io/sample-react",
+  "homepage": "http://karthikvt26.github.io/sample-react",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
